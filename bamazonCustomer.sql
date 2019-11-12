@@ -13,22 +13,22 @@ PRIMARY KEY (item_id)
 );
 
 INSERT INTO products(product_name, department_name, price, stock_quantity)
-VALUES ("Dress", "Clothing", 69.99, 15);
+VALUES ("Dress", "Clothing", 19.99, 12);
 INSERT INTO products(product_name, department_name, price, stock_quantity)
-VALUES ("Coat", "Clothing", 250.00, 10);
+VALUES ("Coat", "Clothing", 70.00, 14);
 INSERT INTO products(product_name, department_name, price, stock_quantity)
-VALUES ("Shirt", "Clothing", 20.50, 35);
+VALUES ("Shirt", "Clothing", 11.50, 25);
 INSERT INTO products(product_name, department_name, price, stock_quantity)
-VALUES ("Laptop", "Electronics", 1750.00, 12);
+VALUES ("Laptop", "Electronics", 1000.00, 10);
 INSERT INTO products(product_name, department_name, price, stock_quantity)
-VALUES ("Camera", "Electronics", 820.50, 25);
+VALUES ("Camera", "Electronics", 700.50, 15);
 INSERT INTO products(product_name, department_name, price, stock_quantity)
-VALUES ("Smart Phone", "Electronics", 900.00, 30);
+VALUES ("Smart Phone", "Electronics", 650.00, 23);
 INSERT INTO products(product_name, department_name, price, stock_quantity)
-VALUES ("Toaster", "Home", 75.00, 10);
+VALUES ("Toaster", "Home", 43.00, 16);
 INSERT INTO products(product_name, department_name, price, stock_quantity)
-VALUES ("Blender", "Home", 150.00, 15);
+VALUES ("Blender", "Home", 90.00, 17);
 INSERT INTO products(product_name, department_name, price, stock_quantity)
-VALUES ("Bike", "Sporting Goods", 850.00, 25);
+VALUES ("Bike", "Sporting Goods", 785.00, 45);
 INSERT INTO products(product_name, department_name, price, stock_quantity)
-VALUES ("Surfboard", "Sporting Goods", 1100.00, 17);
+VALUES ("Surfboard", "Sporting Goods", 1200.00, 45);
